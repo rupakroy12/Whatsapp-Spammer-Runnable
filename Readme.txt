@@ -10,3 +10,7 @@ Steps to run :
 |-> Scan qr code to login to whatsapp web.
 |-> Manually open the contact you want to spam on the browser
 |-> After the contact is opened follow command prompt to spam that contact.
+
+
+
+If you want the aactual code you can find it in a separatte rrepository
