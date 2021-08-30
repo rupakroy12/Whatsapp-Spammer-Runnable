@@ -13,4 +13,5 @@ Steps to run :
 
 
 
-If you want the aactual code you can find it in a separatte rrepository
+If you want the actual code you can find it in my this repository..
+https://github.com/rupakroy12/Selenium-WhatsApp_Spammer-Code.git
